@@ -1,16 +1,24 @@
-### Hi there 👋
+<div class="description" style="display: inline_block">
+    <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 35px; alt="hello"> Hi, I’m Maria Alice</h1>
+    <a href="https://github.com/The-Ongaro">
+     <img src="https://github-readme-stats.vercel.app/api?username=The-Ongaro&show_icons=true&theme=dark" alt="nota"height=200px>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Ongaro&layout=compact" alt="top language">
+    </a>
+</div>
+<br>
 
-<!--
-**The-Ongaro/The-Ongaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div class="languages" style="display: inline_block">
+  <h2>📚Languages</h2>
+  <a href="https://github.com/The-Ongaro">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   </a>
+</div>
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+  <a href="https://www.instagram.com/ongaro__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/maria-alice-zetune-ongaro-833084286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
