@@ -1,7 +1,7 @@
 <div class="description" style="display: inline_block">
     <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 35px; alt="hello"> Hi, I’m Maria Alice</h1>
     <a href="https://github.com/The-Ongaro">
-    
+    <p>A girl curious about technology!</p>
 
 </div>
 <br>
