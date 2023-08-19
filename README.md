@@ -5,10 +5,8 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Ongaro&layout=compact&theme=dark" alt="top language">
     </a>
     <p>A girl curious about technology!</p>
-
 </div>
 <br>
-
 <div class="languages" style="display: inline_block">
   <h2>📚Languages</h2>
   <a href="https://github.com/The-Ongaro">
