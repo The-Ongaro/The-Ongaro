@@ -2,7 +2,7 @@
     <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 35px; alt="hello"> Hi, I’m Maria Alice</h1>
     <a href="https://github.com/The-Ongaro">
       <img src="https://github-readme-stats.vercel.app/api?username=The-Ongaro&show_icons=true&theme=dark" alt="nota"height=200px>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Ongaro&layout=compact" alt="top language">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Ongaro&layout=compact&theme=dark" alt="top language">
     </a>
     <p>A girl curious about technology!</p>
 
