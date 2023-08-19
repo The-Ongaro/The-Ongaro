@@ -4,6 +4,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=The-Ongaro&show_icons=true&theme=dark" alt="nota"height=200px>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Ongaro&layout=compact&theme=dark" alt="top language">
     </a>
+    <br>
     <p>A girl curious about technology!</p>
 </div>
 <br>
