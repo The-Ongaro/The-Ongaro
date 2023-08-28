@@ -1,4 +1,5 @@
 <div class="description" style="display: inline_block">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+welcome!+;My+name+is+Maria+Alice+Ongaro.;I+am+18+years+old.;I'm+from+Brazil%2C+SP.)](https://git.io/typing-svg)
     <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 35px; alt="hello"> Hi, I’m Maria Alice</h1>
     <a href="https://github.com/The-Ongaro">
       <img src="https://github-readme-stats.vercel.app/api?username=The-Ongaro&show_icons=true&theme=dark" alt="nota"height=200px>
