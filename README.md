@@ -1,5 +1,5 @@
 <div class="description" style="display: inline_block">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=70&lines=Hello+welcome!+;My+name+is+Maria+Alice+Ongaro.;I´m+18+years+old.;I'm+from+Brazil%2C+SP." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=1000&pause=1000&color=00767D&background=FF310100&vCenter=true&width=501&lines=Hello+World%2C+I'm+Maria+Alice%2C+be+very+welcome!;I%C2%B4m+18+years+old.;I%C2%B4m+from+Brazil%2C+SP." alt="Typing SVG" /></a>
     <br>
     <a href="https://github.com/The-Ongaro">
       <img src="https://github-readme-stats.vercel.app/api?username=The-Ongaro&show_icons=true&theme=dark" alt="nota"height=200px>
